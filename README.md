@@ -1,5 +1,9 @@
-<img style="float: right;" src=salunke_vihar.jpg width=100> 
+
 This page will have important information  for residents of Salunke Vihar.
+<p align="right">
+  <img style="float: right;" src=salunke_vihar.jpg width=110>
+</p>
+
 
 ## Table of contents
 
