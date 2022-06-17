@@ -1,3 +1,5 @@
+![Salunke Vihar Image](salunke_vihar.jpg)
+
 This page will have important information (Phone numbers, etc.) for residents of Salunke Vihar.
 
 ## Table of contents
